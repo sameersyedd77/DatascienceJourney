@@ -44,7 +44,7 @@
 - The project identified the top three students through ranking.
 - Students were grouped into Excellent, Good, and Needs Improvement categories.
 - Strong correlations were observed between the subject scores in this sample dataset.
-- The analysis also identified eah student's strongest ssubject.
+- The analysis also identified each student's strongest subject.
 
 
 ## Project Structure
@@ -57,7 +57,7 @@ Student-Performance-Analysis/
 |-- charts/
     |---subject_average.png
     |---student_average.png
-    |---performance_catogery.png
+    |---performance_categery.png
 |-- README.md
 
 
