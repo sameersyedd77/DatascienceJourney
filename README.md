@@ -76,3 +76,14 @@ Student-Performance-Analysis/
 - Add more students and subject datasets
 - Improve visualizations
 - Add automated data cleaning
+
+## Visualizations
+
+### Average Marks by Subject
+![Average Marks by Subject](charts/subject_average.png)
+
+### Average Score by Student
+![Average Score by Student](charts/student_average.png)
+
+### Students by Performance Category
+![Students by Performance Category](charts/performance_category.png)
